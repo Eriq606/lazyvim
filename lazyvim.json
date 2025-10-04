@@ -4,6 +4,7 @@
     "lazyvim.plugins.extras.editor.neo-tree",
     "lazyvim.plugins.extras.editor.telescope",
     "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.java",
     "lazyvim.plugins.extras.util.gitui"
   ],
   "install_version": 8,
