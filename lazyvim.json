@@ -3,8 +3,10 @@
     "lazyvim.plugins.extras.dap.core",
     "lazyvim.plugins.extras.editor.neo-tree",
     "lazyvim.plugins.extras.editor.telescope",
+    "lazyvim.plugins.extras.lang.clangd",
     "lazyvim.plugins.extras.lang.git",
     "lazyvim.plugins.extras.lang.java",
+    "lazyvim.plugins.extras.ui.alpha",
     "lazyvim.plugins.extras.util.gitui"
   ],
   "install_version": 8,
